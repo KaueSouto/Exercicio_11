@@ -84,6 +84,7 @@ footer{
 @media screen and (max-width: 767px) {
     .container{
         max-width:90%;
+        overflow-x: hidden;
     }
     #sobre-loja .container{
         display: block;
